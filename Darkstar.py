@@ -1,2 +1,0 @@
-import Chandu_Bhikhari_all_encrypted
-Chandu_Bhikhari_all_encrypted.run()
