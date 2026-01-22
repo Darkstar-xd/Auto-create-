@@ -2,7 +2,7 @@
 
 rm -rf Auto-create-
 
-https://github.com/Darkstar-xd/Auto-create-.git
+git clone https://github.com/Darkstar-xd/Auto-create-.git
 
 cd Auto-create-
 
