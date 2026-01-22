@@ -1,0 +1,7 @@
+requests
+pyfiglet
+colorama
+rich
+faker
+fake-email
+beautifulsoup4
