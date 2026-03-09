@@ -1,5 +1,7 @@
 # Auto create 
----
+
+''' bash
+
 rm -rf Auto-create-
 
 git clone https://github.com/Darkstar-xd/Auto-create-.git
